@@ -1,0 +1,2 @@
+SqliteHelper(CreateConnection):Unable to open the database file/2015-4-13 19:47:25
+SqliteHelper(CreateConnection):Unable to open the database file/2015-4-13 19:47:59
