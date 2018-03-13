@@ -1,0 +1,14 @@
+D:\Csharp\老婆新版集装箱统计\BillManager\bin\Debug\BillManager.dll
+D:\Csharp\老婆新版集装箱统计\BillManager\bin\Debug\BillManager.pdb
+D:\Csharp\老婆新版集装箱统计\BillManager\bin\Debug\BaseDAL.dll
+D:\Csharp\老婆新版集装箱统计\BillManager\bin\Debug\Model.dll
+D:\Csharp\老婆新版集装箱统计\BillManager\bin\Debug\System.Data.SQLite.dll
+D:\Csharp\老婆新版集装箱统计\BillManager\bin\Debug\SQLite.dll
+D:\Csharp\老婆新版集装箱统计\BillManager\bin\Debug\ConfigManager.dll
+D:\Csharp\老婆新版集装箱统计\BillManager\bin\Debug\BaseDAL.pdb
+D:\Csharp\老婆新版集装箱统计\BillManager\bin\Debug\Model.pdb
+D:\Csharp\老婆新版集装箱统计\BillManager\bin\Debug\SQLite.pdb
+D:\Csharp\老婆新版集装箱统计\BillManager\bin\Debug\ConfigManager.pdb
+D:\Csharp\老婆新版集装箱统计\BillManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Csharp\老婆新版集装箱统计\BillManager\obj\Debug\BillManager.dll
+D:\Csharp\老婆新版集装箱统计\BillManager\obj\Debug\BillManager.pdb

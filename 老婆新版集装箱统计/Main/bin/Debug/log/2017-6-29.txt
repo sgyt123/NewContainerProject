@@ -1,0 +1,8 @@
+SqliteHelper(ExecuteNonQuery):Update billIndex set title='吉祥通18/1715卸船清单',reg_date='2017-01-31',inout='进口,voyaga='dfghjk,shipNo='' where id=2727/SQLite error
+near "dfghjk": syntax error/2017-06-29 19:03:29
+SqliteHelper(ExecuteNonQuery):Update billIndex set title='吉祥通18/1715卸船清单',reg_date='2017-01-31',inout='进口,voyaga='dfghjk,shipNo='' where id=2727/SQLite error
+near "dfghjk": syntax error/2017-06-29 19:05:01
+SqliteHelper(ExecuteNonQuery):Update billIndex set title='吉祥通18/1715卸船清单',reg_date='2017-01-31',inout='进口,voyaga='盘锦-唐山',shipNo='23456' where id=2727/SQLite error
+near "盘锦": syntax error/2017-06-29 19:06:45
+SqliteHelper(ExecuteNonQuery):Update billIndex set title='吉祥通18/1715卸船清单',reg_date='2017-01-31',inout='进口',voyaga='盘锦-广州',shipNo='2345' where id=2727/SQLite error
+no such column: voyaga/2017-06-29 19:10:49

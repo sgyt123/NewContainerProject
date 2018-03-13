@@ -1,0 +1,7 @@
+D:\Csharp\老婆新版集装箱统计\TestAPP\bin\Debug\TestAPP.exe
+D:\Csharp\老婆新版集装箱统计\TestAPP\bin\Debug\TestAPP.pdb
+D:\Csharp\老婆新版集装箱统计\TestAPP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Csharp\老婆新版集装箱统计\TestAPP\obj\x86\Debug\TestAPP.exe
+D:\Csharp\老婆新版集装箱统计\TestAPP\obj\x86\Debug\TestAPP.pdb
+D:\Csharp\老婆新版集装箱统计\TestAPP\bin\Debug\ConfigManager.dll
+D:\Csharp\老婆新版集装箱统计\TestAPP\bin\Debug\ConfigManager.pdb

@@ -1,0 +1,18 @@
+SqliteHelper(ExecuteReader):select * from user where UserLogin='ykweiwei' and UserPwd='5201314'/SQLite error
+no such table: user/2017-12-3 9:38:25
+SqliteHelper(ExecuteReader):select * from user where UserLogin='ykweiwei' and UserPwd='520131'/SQLite error
+no such table: user/2017-12-3 9:38:30
+SqliteHelper(ExecuteReader):select * from user where UserLogin='ykweiwei' and UserPwd='520131'/SQLite error
+no such table: user/2017-12-3 9:38:32
+SqliteHelper(ExecuteReader):select * from user where UserLogin='ykweiwei' and UserPwd='5201314'/SQLite error
+no such table: user/2017-12-3 9:38:46
+SqliteHelper(ExecuteReader):select * from user where UserLogin='ykweiwei' and UserPwd='5201314'/SQLite error
+no such table: user/2017-12-3 9:38:46
+SqliteHelper(ExecuteReader):select * from user where UserLogin='ykweiwei' and UserPwd='5201314'/SQLite error
+no such table: user/2017-12-3 9:38:46
+SqliteHelper(ExecuteReader):select * from user where UserLogin='ykweiwei' and UserPwd='5201314'/SQLite error
+no such table: user/2017-12-3 9:38:47
+SqliteHelper(ExecuteReader):select * from user where UserLogin='ykweiwei' and UserPwd='5201314'/SQLite error
+no such table: user/2017-12-3 9:38:47
+SqliteHelper(ExecuteReader):select * from user where UserLogin='ykweiwei' and UserPwd='5201314'/SQLite error
+no such table: user/2017-12-3 9:38:47

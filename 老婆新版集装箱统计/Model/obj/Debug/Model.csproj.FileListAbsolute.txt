@@ -1,0 +1,5 @@
+D:\Csharp\老婆新版集装箱统计\Model\bin\Debug\Model.dll
+D:\Csharp\老婆新版集装箱统计\Model\bin\Debug\Model.pdb
+D:\Csharp\老婆新版集装箱统计\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\Csharp\老婆新版集装箱统计\Model\obj\Debug\Model.dll
+D:\Csharp\老婆新版集装箱统计\Model\obj\Debug\Model.pdb

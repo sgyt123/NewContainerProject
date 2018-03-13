@@ -1,0 +1,5 @@
+D:\Csharp\老婆新版集装箱统计\ConfigManager\bin\Debug\ConfigManager.dll
+D:\Csharp\老婆新版集装箱统计\ConfigManager\bin\Debug\ConfigManager.pdb
+D:\Csharp\老婆新版集装箱统计\ConfigManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Csharp\老婆新版集装箱统计\ConfigManager\obj\Debug\ConfigManager.dll
+D:\Csharp\老婆新版集装箱统计\ConfigManager\obj\Debug\ConfigManager.pdb

@@ -1,0 +1,7 @@
+D:\Csharp\老婆新版集装箱统计\SQLite\bin\Debug\SQLite.dll
+D:\Csharp\老婆新版集装箱统计\SQLite\bin\Debug\SQLite.pdb
+D:\Csharp\老婆新版集装箱统计\SQLite\bin\Debug\ConfigManager.dll
+D:\Csharp\老婆新版集装箱统计\SQLite\bin\Debug\ConfigManager.pdb
+D:\Csharp\老婆新版集装箱统计\SQLite\obj\Debug\ResolveAssemblyReference.cache
+D:\Csharp\老婆新版集装箱统计\SQLite\obj\Debug\SQLite.dll
+D:\Csharp\老婆新版集装箱统计\SQLite\obj\Debug\SQLite.pdb

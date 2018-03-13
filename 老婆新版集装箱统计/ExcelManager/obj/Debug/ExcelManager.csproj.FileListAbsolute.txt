@@ -1,0 +1,7 @@
+D:\Csharp\老婆新版集装箱统计\ExcelManager\bin\Debug\ExcelManager.dll
+D:\Csharp\老婆新版集装箱统计\ExcelManager\bin\Debug\ExcelManager.pdb
+D:\Csharp\老婆新版集装箱统计\ExcelManager\bin\Debug\Model.dll
+D:\Csharp\老婆新版集装箱统计\ExcelManager\bin\Debug\Model.pdb
+D:\Csharp\老婆新版集装箱统计\ExcelManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Csharp\老婆新版集装箱统计\ExcelManager\obj\Debug\ExcelManager.dll
+D:\Csharp\老婆新版集装箱统计\ExcelManager\obj\Debug\ExcelManager.pdb

@@ -1,0 +1,5 @@
+1.调整数据库BillIndex 加字段 ShipNo  vchar vchar
+2.清单中增加船号功能
+3.清单中增加可修改的航线功能，船号修改功能
+4.快速汇总中汇总停泊艘次和作业艘次(停泊艘次Group 船号 作业艘次Group billIndexID)
+

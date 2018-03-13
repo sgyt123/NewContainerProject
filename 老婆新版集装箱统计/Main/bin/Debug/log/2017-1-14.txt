@@ -1,0 +1,6 @@
+SqliteHelper(ExecuteReader):select * from bills where billIndexID in (2611,2612,2613,2614,2615,2616) group by Voyage order by Voyage/SQLite error
+no such column: Voyage/2017-01-14 21:07:37
+SqliteHelper(ExecuteReader):select * from bills where billIndexID in (2611,2612,2613,2614,2615,2616) group by Voyage,WorkPlace order by Voyage,WorkPlace/SQLite error
+no such column: Voyage/2017-01-14 21:07:54
+SqliteHelper(ExecuteReader):select * from bills where billIndexID in (2611,2612,2613,2614,2615,2616) group by Voyage,Company order by Voyage,Company/SQLite error
+no such column: Voyage/2017-01-14 21:08:26
